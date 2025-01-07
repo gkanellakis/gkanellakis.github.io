@@ -2,13 +2,12 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+
 
 [Contact Me Here](./another-page.html).
 
-There should be whitespace between paragraphs.
+ 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Welcome to my humble Project Page
 
@@ -31,11 +30,11 @@ Welcome and don't be shy to ask any questions
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](https://media.istockphoto.com/id/1249867007/vector/analytics-analysis-statistics-searching-gray-icon.jpg?s=612x612&w=0&k=20&c=Yt4RBnpog9OU1uPu9LVONX69bxsdS_HjeHNP6CnFRYs=)
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://media.istockphoto.com/id/1490871146/vector/big-data-sorting-machine-learning-algorithm-visualization-digital-database-analysis-and.jpg?s=612x612&w=0&k=20&c=Od3rjyR8rqHMRLZVQWhI6yHKmoO8OLn3g7hKDvXYaxg=)
 
 
 
