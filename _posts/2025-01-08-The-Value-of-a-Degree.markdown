@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The need for a Degree"
+title:  "The Value for a Degree by Big Blue Academy"
 date:   2025-01-08 00:06:45 +0200
 categories: BigBlue
 ---
