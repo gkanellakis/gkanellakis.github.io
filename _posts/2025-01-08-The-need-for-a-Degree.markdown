@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Kubernetes"
+title:  "The need for a Degree"
 date:   2025-01-08 00:06:45 +0200
-categories: k8s
+categories: BigBlue
 ---
 The Value of a Degree
 A traditional degree from a college or university has long been regarded as a hallmark of academic achievement and a pathway to success in many professions.
