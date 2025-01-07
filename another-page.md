@@ -1,11 +1,7 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Contact Me
+description: This is just another page for you to Contact Me
 ---
-
-## Welcome to another page
-
-_yay_
-
-[back](./)
+## Mail me 
+Mail me for any questions on gkanellakis84@gmail.com
